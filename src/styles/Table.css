@@ -1,0 +1,16 @@
+table tr th {
+    background-color   : gray;
+    padding            : 10px 20px;
+}
+
+table tr td {
+    background-color   : lightgray;
+    padding            : 10px 20px;
+
+}
+
+table .tr-row:hover td {
+    background-color      : gray !important;
+    color                 : whitesmoke;
+    cursor                : pointer;
+}
